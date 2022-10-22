@@ -52,6 +52,12 @@
     <Compile Include="Cau5.Designer.cs">
       <DependentUpon>Cau5.cs</DependentUpon>
     </Compile>
+    <Compile Include="Cong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cong.Designer.cs">
+      <DependentUpon>Cong.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -74,6 +80,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Cau5.resx">
       <DependentUpon>Cau5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cong.resx">
+      <DependentUpon>Cong.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
