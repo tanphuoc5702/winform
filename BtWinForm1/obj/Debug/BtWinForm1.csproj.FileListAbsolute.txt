@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\BtWinForm1\BtWinForm1\bin\Debug\BtWinForm1.exe.config
+C:\Users\Admin\source\repos\BtWinForm1\BtWinForm1\bin\Debug\BtWinForm1.exe
+C:\Users\Admin\source\repos\BtWinForm1\BtWinForm1\bin\Debug\BtWinForm1.pdb
+C:\Users\Admin\source\repos\BtWinForm1\BtWinForm1\obj\Debug\BtWinForm1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BtWinForm1\BtWinForm1\obj\Debug\BtWinForm1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\BtWinForm1\BtWinForm1\obj\Debug\BtWinForm1.Form1.resources
+C:\Users\Admin\source\repos\BtWinForm1\BtWinForm1\obj\Debug\BtWinForm1.Properties.Resources.resources
+C:\Users\Admin\source\repos\BtWinForm1\BtWinForm1\obj\Debug\BtWinForm1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BtWinForm1\BtWinForm1\obj\Debug\BtWinForm1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BtWinForm1\BtWinForm1\obj\Debug\BtWinForm1.exe
+C:\Users\Admin\source\repos\BtWinForm1\BtWinForm1\obj\Debug\BtWinForm1.pdb
+C:\Users\Admin\source\repos\BtWinForm1\BtWinForm1\obj\Debug\BtWinForm1.Cau5.resources
+C:\Users\Admin\source\repos\BtWinForm1\BtWinForm1\obj\Debug\BtWinForm1.Form2.resources
+C:\Users\Admin\source\repos\BtWinForm1\BtWinForm1\obj\Debug\BtWinForm1.Form3.resources
